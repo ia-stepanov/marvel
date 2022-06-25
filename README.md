@@ -12,7 +12,7 @@ Marvel — это интерактивное приложение, которо�
 - Информация по комиксам.
 
 ## Стек технологий:
-<img align='right' src="https://user-images.githubusercontent.com/86494748/175765439-6bca10e1-ce4c-4146-8eed-61a25cd51946.png" height="180">
+<img align='right' src="https://user-images.githubusercontent.com/86494748/175765439-6bca10e1-ce4c-4146-8eed-61a25cd51946.png" height="240">
 
 - HTML5;
 - CSS3;
