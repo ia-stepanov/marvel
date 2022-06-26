@@ -37,8 +37,6 @@ const ComicsList = () => {
 
   function renderItems(arr) {
     const items = arr.map((item, i) => {
-      let imgStyle = { objectFit: 'cover' };
-
       return (
         <li className="comics__item" key={i}>
           <a href="#">
