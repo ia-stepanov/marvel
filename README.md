@@ -48,6 +48,8 @@ Marvel — это интерактивное приложение, которо�
 <details><summary><b>Развернуть</b></summary>
 
 [![marvel](https://user-images.githubusercontent.com/86494748/175765368-d609ab68-be3e-4d23-8c35-ba7cdce4674d.jpg)](https://ia-stepanov.github.io/marvel/)
+[![marvel](https://user-images.githubusercontent.com/86494748/175907850-41ef549d-eace-403b-9fc3-3209f565529c.jpg)](https://ia-stepanov.github.io/marvel/)
+[![marvel](https://user-images.githubusercontent.com/86494748/175907870-c490b60b-5d3f-48c3-b4f2-f88cd6586ba6.jpg)](https://ia-stepanov.github.io/marvel/)
 
 </details>
 

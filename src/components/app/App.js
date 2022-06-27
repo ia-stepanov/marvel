@@ -9,7 +9,6 @@ const MainPage = lazy(() => import('../pages/MainPage'));
 const ComicsPage = lazy(() => import('../pages/ComicsPage'));
 const SingleComicPage = lazy(() => import('../pages/SingleComicPage'));
 
-// 751
 const App = () => {
   return (
     <Router basename="/marvel">
