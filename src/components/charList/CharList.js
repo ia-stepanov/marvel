@@ -77,13 +77,7 @@ const CharList = (props) => {
         </li>
       );
     });
-
-    return (
-      //  prettier-ignore
-      <ul className="char__grid">
-        {items}
-      </ul>
-    );
+    return <ul className="char__grid">{items}</ul>;
   }
 
   const items = renderItems(charList);
